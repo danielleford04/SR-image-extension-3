@@ -1,5 +1,9 @@
 # Chrome Extension With Webpack Boilerplate
 
+This code is from the Alt Tag Generator Tutorial (https://hackernoon.com/overwrite-bad-image-alt-tags-via-my-alt-tag-generation-app-built-with-openai-api).
+
+This is where the code should be at the end of Step 3. At this point, if the user clicks the button in the Extension, it will replace the alt tags for all images on the page with "Test Alt Text."
+
 ## Install and run the extension:
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start the development server.
